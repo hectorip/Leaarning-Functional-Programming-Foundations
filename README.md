@@ -10,3 +10,8 @@ En este repo pondré recursos para aprender progrmación funcional desde las bas
 ## Erlang
 
 - [Learn you some Erlang for Great Good](https://learnyousomeerlang.com/content)
+
+
+## Teoría de Categorías
+
+- [Category Theory for Programmers](/category-theory-for-programmers.pdf)
