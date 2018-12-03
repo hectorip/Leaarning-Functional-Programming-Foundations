@@ -4,4 +4,9 @@ En este repo pondré recursos para aprender progrmación funcional desde las bas
 
 ## Haskell
 
-- Learn you a Haskell for Great Good
+- [Learn you a Haskell for Great Good](http://learnyouahaskell.com/)
+
+
+## Erlang
+
+- [Learn you some Erlang for Great Good](https://learnyousomeerlang.com/content)
